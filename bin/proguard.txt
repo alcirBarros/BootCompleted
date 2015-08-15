@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:23
+-keep class br.com.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class br.com.MainActivity { <init>(...); }
+
